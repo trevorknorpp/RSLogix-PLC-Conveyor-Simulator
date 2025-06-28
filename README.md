@@ -1,8 +1,8 @@
+[Watch the demo video on YouTube](https://youtu.be/WWMfdzyY2Ms?si=W0cI22AhVHwEcnpK)
+
 # PLC Conveyor Control Simulation (RSLogix Micro + Emulate)
 
 This project simulates a basic industrial conveyor system using **RSLogix Micro Starter Lite** and **ladder logic**.
-
-[Watch the demo video on YouTube](https://youtu.be/WWMfdzyY2Ms?si=W0cI22AhVHwEcnpK)
 
 ---
 
