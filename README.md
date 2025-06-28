@@ -1,6 +1,6 @@
 # PLC Conveyor Control Simulation (RSLogix Micro + Emulate)
 
-This project simulates a basic industrial conveyor system using **RSLogix Micro Starter Lite** and **ladder logic**. Designed for use with a **MicroLogix 1000 controller**, the logic is fully testable in RSLogix (and optionally RSEmulate 500), and models real-world automation behavior in material handling environments.
+This project simulates a basic industrial conveyor system using **RSLogix Micro Starter Lite** and **ladder logic**. The logic is fully testable in RSLogix (or RSEmulate 500), and models real-world automation behavior in material handling environments.
 
 ---
 
