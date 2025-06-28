@@ -72,8 +72,8 @@ This project simulates a basic industrial conveyor system using **RSLogix Micro 
 
 ---
 
-## Video Walkthrough (Coming Soon)
-An annotated screen recording explains each rung, shows how inputs affect output behavior, and walks through edge cases like jam clearing.
+## Video Walkthrough
+Open "Video_Explanation.mp4"
 
 ---
 
