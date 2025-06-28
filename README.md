@@ -16,8 +16,8 @@ This project simulates a basic industrial conveyor system using **RSLogix Micro 
 ---
 
 ## Files
-- `Video_Explanation` – Video explanation of the project
-- `Ladder_Logic_Screenshot` – Visual of each rung
+- `Video_Explanation.mp4` – Video explanation of the project
+- `Ladder_Logic_Screenshot.png` – Visual of each rung
 - `README.md` – This document
 - `CONVEYORSIMULATOR.RSS` – RSLogix project
   
