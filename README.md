@@ -1,6 +1,6 @@
 # PLC Conveyor Control Simulation (RSLogix Micro + Emulate)
 
-This project simulates a basic industrial conveyor system using **RSLogix Micro Starter Lite** and **ladder logic**. The logic is fully testable in RSLogix (or RSEmulate 500), and models real-world automation behavior in material handling environments.
+This project simulates a basic industrial conveyor system using **RSLogix Micro Starter Lite** and **ladder logic**.
 
 ---
 
@@ -13,6 +13,14 @@ This project simulates a basic industrial conveyor system using **RSLogix Micro 
 - Baggage handling systems
 - Manufacturing automation cells
 
+---
+
+## Files
+- `Video_Explanation` – Video explanation of the project
+- `Ladder_Logic_Screenshot` – Visual of each rung
+- `README.md` – This document
+- `CONVEYORSIMULATOR.RSS` – RSLogix project
+  
 ---
 
 ## Ladder Logic Summary
@@ -60,7 +68,6 @@ This project simulates a basic industrial conveyor system using **RSLogix Micro 
 | `O:0/1`     | Diverter Gate Solenoid              |
 | `O:0/2`     | Alarm Buzzer/Light                  |
 | `B3:0/0`    | Alarm Memory Bit (latched)          |
-| `B3:0/1`    | Conveyor Seal-In Memory Bit         |
 | `T4:0`      | TON Timer for Jam Detection         |
 
 ---
@@ -77,13 +84,6 @@ An annotated screen recording explains each rung, shows how inputs affect output
 3. Toggle bits in `I:0` data file to simulate:
    - Start, Stop, Photoeye, Jam, and Reset
 4. Watch outputs `O:0` for correct response
-
----
-
-## Files
-- `CONVEYORSIMULATOR.RSS` – RSLogix project
-- `README.md` – This document
-- `LadderLogicScreenshotRSLogix.png` – Visuals of each rung
 
 ---
 
