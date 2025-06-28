@@ -1,4 +1,4 @@
-[Watch the demo video on YouTube](https://youtu.be/WWMfdzyY2Ms?si=W0cI22AhVHwEcnpK)
+## [Watch the demo video on YouTube](https://youtu.be/WWMfdzyY2Ms?si=W0cI22AhVHwEcnpK)
 
 # PLC Conveyor Control Simulation (RSLogix Micro + Emulate)
 
